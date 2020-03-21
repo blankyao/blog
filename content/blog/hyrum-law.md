@@ -1,5 +1,5 @@
 ---
-title: Hyrum's Law
+title: Review | Hyrum's Law
 date: "2020-03-15 11:10:00"
 description: "Hyrum's Law 是 Google 的软件工程师 Hyrum Wright 总结的规律。"
 ---
