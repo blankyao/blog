@@ -102,7 +102,7 @@ class Solution {
 
 这时候突然冒出来一个想法，到底什么是递归？于是开始搜索，看到下图后有种茅塞顿开的感觉：
 
-![recursion](./recursion.jpg)
+![recursion](../assets/recursion.jpg)
 
 出自[「对于递归有没有什么好的理解方法？」](https://www.zhihu.com/question/31412436/answer/738989709)
 
