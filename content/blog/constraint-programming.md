@@ -97,6 +97,8 @@ safe_queens([Q|Qs], Q0, D0) :-
 ```
 乍一看是挺难理解的，因为我们早就习惯了命令式编程的思维方式，用另外一种思维方式解决问题会很难理解，不过，相信我，其实不难，我也就花了不到一天的时间就入门（能看懂 N 皇后的解法）了。逻辑范式的优势是不需要关注具体实现的算法，所以代码会更加简洁清晰、易于维护，看到这句话可能你会不相信，没关系，试下就知道了，（入门）真的很简单，在 Prolog 中只有三个基本的概念，分别是事实、规则和查询，这里有一个非常简单的[入门介绍](https://draveness.me/prolog-ji-chu-1/)，看完就会有基本的了解了，继续深入的话可以看下 [The Power of Prolog](https://github.com/triska/the-power-of-prolog)，另外作者也有做了一些配套视频，比如解释[用 Prolog 解决 N 皇后问题的视频](https://www.youtube.com/watch?v=l_tbL9RjFdo&feature=youtu.be)。
 
+再推荐一个工具 [prolog-viz](https://github.com/cdglabs/prolog-viz)，可以将 prolog 的执行过程可视化，可以用来辅助学习。
+
 另外，引用关于 Prolog 的一个观点：
 > In a sense, programming in Prolog is like writing a poem: You can achieve great effects by writing under stringent constraints. In Prolog, you often get the best results by restricting your work to the pure core of the language. As long as you do this, you can benefit from strong logical properties which let you reason about your programs in systematic ways that are not available in most other programming languages.
 
