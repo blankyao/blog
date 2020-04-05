@@ -144,7 +144,7 @@ class Solution {
 
 作者提出来的解决方案是用一个 coordinator 来承载这些流程工作，这样带来了非常多的好处，view controller 之间解耦了，也可以更好的复用了，所有的跳转逻辑都在 coordinator 中进行。而且，实现起来非常简单，不需要用什么框架或者库，只是一种思想而已。不过，我搜了下，找到了一个叫 [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) 的 swift 库，简单看了下，除了实现了 coordinator 模式外，还融入了一些响应式编程的思想。因为我没用 swift 做过实际的开发，所以暂时没办法客观的评价。
 
-## Tip
+## Tips
 kotlin 的 inline扩展函数 + 后置 lambda 让代码更加的优雅，比如：
 ```kotlin
 // Paint

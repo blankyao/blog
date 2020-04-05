@@ -37,7 +37,7 @@ class Solution {
 ## Review
 [Hyrum's Law](https://blog.blankyao.com/hyrum%20law/)
 
-## Tip
+## Tips
 Writing solidifies, chat dissolves. Substantial decisions start and end with an exchange of complete thoughts, not one-line-at-a-time jousts. If it's important, critical, or fundamental, write it up, don't chat it down.
 
 from [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)

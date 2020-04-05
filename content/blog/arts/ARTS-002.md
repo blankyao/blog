@@ -57,7 +57,7 @@ class Solution {
 ## Review
 [How Microsoft Lost the API War](https://blog.blankyao.com/how-microsoft-lost-the-api-war/)
 
-## Tip
+## Tips
 backtracking 算法中的三个关键点：
 1. In each recursive call to the backtracking algorithm, we need to make exactly one decision, and our choice must be consistent with all previous decisions.
 2. When we design new recursive backtracking algorithms, we must ﬁgure out in advance what information we will need about past decisions in the middle of the algorithm. If this information is nontrivial, our recursive algorithm might need to solve a more general problem than the one we were originally asked to solve.
