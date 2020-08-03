@@ -35,7 +35,7 @@ class Solution {
 ## Review
 [Dr. Alan Kay on the Meaning of "Object-Oriented Programming"](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
 
-面向对象编程的原始概念：
+面向对象编程的原始设想：
 1. 我想到对象就像生物细胞或者网络上的个体计算机，只能通过消息进行通信；
 2. 我想摆脱数据，我意识到细胞或者 whole-computer 的隐喻可以摆脱数据，并且 '<-' 只是一个消息 token;
 3. 我的数学背景让我意识到每个对象都应该有与之相关联的代数运算。「多态」这个术语是后来被强加进来的，不是太合适，因为是从函数的术语里来的，我想要的不只是函数。后来我决定用 "genericity" 以一个类似代数的形式来处理通用行为；
