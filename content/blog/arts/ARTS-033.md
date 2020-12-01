@@ -1,7 +1,7 @@
 ---
 title: ARTS 033
 date: "2020-11-28 22:09:00"
-description: "创造者 VS 管理者，日程规划能成就了你的工作，也可能毁掉你的工作；不考运气赚钱；Minimum Number of Arrows to Burst Balloons"
+description: "Machines for creative enablement；开诚布公地探讨你的观察；Minimum Number of Arrows to Burst Balloons"
 ---
 
 ## Review
