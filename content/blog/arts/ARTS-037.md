@@ -1,7 +1,7 @@
 ---
 title: ARTS 037
 date: "2021-01-18 22:25:00"
-description: "heroku values, "
+description: "heroku values, 信任，Permutation in String"
 ---
 
 ## Review
